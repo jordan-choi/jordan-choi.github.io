@@ -10,11 +10,12 @@
 ### [iPortfolio](https://www.iportfolio.co.kr/) (2022.01 - 현재)
 
 국내/외 영어 교육 서비스를 제공하는 에듀테크 스타트업입니다. 국내 b2c 서비스인 [리딩앤](https://www.readingn.com/)과 b2b 서비스인 [리딩앤 LMS](https://lms.readingn.com/)를 담당하는 리딩앤 개발팀에서 프론트엔드 개발을 담당하였습니다.
-| | |
-| -------- | --------------------------------------------------- |
-| position | 리딩앤 개발팀 (사내 프로덕트 프론트엔드 개발) |
-| projects | Design System, 공통 패키지 운영, 리딩앤 CRM, 스피킹앤 Admin |
-| Tech stack | TypeScript, React, Next.js, styled-components |
+
+|            |                                                             |
+| ---------- | ----------------------------------------------------------- |
+| position   | 리딩앤 개발팀 (사내 프로덕트 프론트엔드 개발)               |
+| projects   | Design System, 공통 패키지 운영, 리딩앤 CRM, 스피킹앤 Admin |
+| Tech stack | TypeScript, React, Next.js, styled-components               |
 
 ### Design System
 
